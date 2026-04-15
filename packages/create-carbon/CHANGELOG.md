@@ -1,5 +1,11 @@
 # create-carbon
 
+## 0.8.0
+
+### Minor Changes
+
+- 0eee2e0: feat: remove node/hono adapter from being built in to carbon, add it to create-carbon instead
+
 ## 0.7.0
 
 ### Minor Changes

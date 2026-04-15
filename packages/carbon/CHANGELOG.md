@@ -1,5 +1,12 @@
 # @buape/carbon
 
+## 0.16.0
+
+### Minor Changes
+
+- 0eee2e0: feat: remove node/hono adapter from being built in to carbon, add it to create-carbon instead
+- bc9000b: feat: make channels nicer to use
+
 ## 0.15.0
 
 ### Minor Changes
